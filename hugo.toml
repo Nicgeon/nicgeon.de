@@ -14,7 +14,7 @@ title = "Nicgeon"
   avatarURL = "/images/avatar.JPG"
 
   # Describe the avatar for screen readers
-  avatarAltText = "uselogo"
+  avatarAltText = "userlogo"
 
   # Set the avatar's size: size-xs, size-s, size-m, size-l & size-xl
   avatarSize = "size-l"
@@ -24,7 +24,7 @@ title = "Nicgeon"
   customHeadHTML = ""
 
   # Configure how post dates are displayed
-  dateFormat = "January 2, 2006"
+  dateFormat = "2 January, 2006"
   
   # Home page meta description
   description = "Content Creator and IT rookie :3"
@@ -73,13 +73,13 @@ title = "Nicgeon"
   [[menu.main]]
     # Unique identifiers are required for menu entries without a name property,
     # or for menu entries which re-use a name
-    identifier = "twitch"
+    identifier = "discord"
 
     # Absolute URL to external resource
-     url = "https://twitch.tv/nicgeon"
+     url = "https://discord.gg/SvaP4wS7rz"
      weight = 3
     
     # Surround the menu entry (or name) with HTML content, such as Feather
     # icons: https://feathericons.com
-    pre = "<span data-feather='twitch'></span>"
+    pre = "<span data-feather='message-square'></span>"
     post = ""
