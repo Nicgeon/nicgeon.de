@@ -30,7 +30,7 @@ title = "Nicgeon"
   description = "Content Creator and IT rookie :3"
 
   # Footer text (i.e. author/project name)
-  footer = "Nicgeon |"
+  footer = "Nicgeon | [imprint](/page/imprint/)"
 
   # Define SEO keywords
   metaKeywords = ["about me", "gokarna", "hugo", "nicgeon", "nice"]

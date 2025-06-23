@@ -9,8 +9,8 @@ Simply said a person that uses the internet. But to be more percise i like to cr
 ## What i do:
 - [twitch](https://twitch.tv/nicgeon)
 - [youtube](https://youtube.com/@nicgeon)
-- [Hosing]()
-- [3D Binting]()
+- [Hosting](/page/soon/)
+- [3D Binting](/page/soon/)
 
 > This page is heavily inspired by [Eike](https://eike.in) go check him out ;3
 
