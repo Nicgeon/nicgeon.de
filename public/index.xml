@@ -2,25 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicgeon</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Nicgeon</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Jun 2025 12:19:41 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Soon</title>
-      <link>http://localhost:1313/page/soon/</link>
-      <pubDate>Mon, 23 Jun 2025 12:19:41 +0200</pubDate>
-      <guid>http://localhost:1313/page/soon/</guid>
-      <description>&lt;p&gt;Ayo stop trying to time travel! Things sometimes take time to make and sadly whatever you tried to click on, will only be there in the future&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Imprint</title>
-      <link>http://localhost:1313/page/imprint/</link>
-      <pubDate>Mon, 23 Jun 2025 12:04:36 +0200</pubDate>
-      <guid>http://localhost:1313/page/imprint/</guid>
-      <description>&lt;h2 id=&#34;imprint&#34;&gt;Imprint&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Philipp Moser&#xA;info@nicgeon.de&#xA;Germany&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Due to privacy concerns the adress will only be given out per request via &lt;a href=&#34;mailto:info@nicgeon.de&#34;&gt;Email&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;liability-for-content&#34;&gt;Liability for Content&lt;/h3&gt;&#xA;&lt;p&gt;The contents of our pages have been created with the utmost care. However, we cannot guarantee the accuracy, completeness, and timeliness of the content. As service providers, we are responsible for our own content on these pages in accordance with § 7, para. 1 DDG (German Digital Services Act) under general laws. According to §§ 8 to 10 DDG, however, we as service providers are not obligated to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity. Obligations to remove or block the use of information under general laws remain unaffected. However, liability in this regard is only possible from the time of knowledge of a specific legal violation. Upon becoming aware of corresponding legal violations, we will remove such content immediately.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
