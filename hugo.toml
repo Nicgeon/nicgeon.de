@@ -59,7 +59,7 @@ title = "Nicgeon"
     name = "Social Media"
 
     # Relative URL slug (appended to baseURL)
-    url = "/pages/social"
+    url = "/page/social"
 
     # Lower weights are listed first in the menu (leftmost); higher weights are
     # listed last in the menu (rightmost)
@@ -70,7 +70,7 @@ title = "Nicgeon"
     name = "3D Printing"
 
     # Relative URL slug (appended to baseURL)
-    url = "/pages/soon"
+    url = "/page/soon"
 
     # Lower weights are listed first in the menu (leftmost); higher weights are
     # listed last in the menu (rightmost)
