@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2025-06-23T12:19:41+02:00</lastmod>
+    <loc>https://nicgeon.de/</loc>
+    <lastmod>2025-06-24T17:42:26+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/page/</loc>
-    <lastmod>2025-06-23T12:19:41+02:00</lastmod>
+    <loc>https://nicgeon.de/page/</loc>
+    <lastmod>2025-06-24T17:42:26+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://nicgeon.de/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://nicgeon.de/tags/</loc>
   </url>
 </urlset>
