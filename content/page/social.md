@@ -26,4 +26,4 @@ Currently my streaming times are:
 ```
 All these times are in my local time (UTC+01:00)
 ```
-I'd highly reccoment joining my [discord](https://discord.gg/SvaP4wS7rz) to get updates for the newest features and changes ;)
+I'd highly reccoment joining my [discord](discord.gg/SvaP4wS7rz) to get updates for the newest features and changes ;)
