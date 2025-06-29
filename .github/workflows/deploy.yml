@@ -56,8 +56,10 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: './public/'
           server-dir: '/var/www/html/nicgeon.de/public_html/'
+          protocol: sftp
+          port: 2222
+          timeout: 60000
           exclude: |
             **/.git*
             **/.git*/**
             **/node_modules/**
-          dry-run: false
