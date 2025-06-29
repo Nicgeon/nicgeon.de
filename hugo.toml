@@ -56,10 +56,21 @@ title = "Nicgeon"
 [menu]
   [[menu.main]]
     # Display name
-    name = "Posts"
+    name = "Social Media"
 
     # Relative URL slug (appended to baseURL)
-    url = "/posts/"
+    url = "/pages/social"
+
+    # Lower weights are listed first in the menu (leftmost); higher weights are
+    # listed last in the menu (rightmost)
+    weight = 1
+
+  [[menu.main]]
+    # Display name
+    name = "3D Printing"
+
+    # Relative URL slug (appended to baseURL)
+    url = "/pages/soon"
 
     # Lower weights are listed first in the menu (leftmost); higher weights are
     # listed last in the menu (rightmost)
