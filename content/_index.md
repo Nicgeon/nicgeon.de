@@ -7,8 +7,7 @@ All i do is yap yap yap and experiment, for example this is an experiment as wel
 Simply said a person that uses the internet. But to be more percise i like to create content and do IT stuff.
 
 ## What i do:
-- [twitch](https://twitch.tv/nicgeon)
-- [youtube](https://youtube.com/@nicgeon)
+- [Content Creation](/page/social)
 - [Hosting](/page/soon/)
 - [3D Binting](/page/soon/)
 

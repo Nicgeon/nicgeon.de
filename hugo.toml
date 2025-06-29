@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://nicgeon.de/"
 defaultContentLanguage = "en"
 # Automatically generate robots.txt
 enableRobotsTXT = false
@@ -11,7 +11,7 @@ title = "Nicgeon"
   accentColor = "#c500c2"
 
   # Resource URL for the site avatar (home page and header)
-  avatarURL = "/images/avatar.JPG"
+  avatarURL = "https://cdn.discordapp.com/avatars/452780698802192387/f058492000c1bf93ee4aa98ba267ba74.webp?size=1024"
 
   # Describe the avatar for screen readers
   avatarAltText = "userlogo"
@@ -64,11 +64,6 @@ title = "Nicgeon"
     # Lower weights are listed first in the menu (leftmost); higher weights are
     # listed last in the menu (rightmost)
     weight = 1
-
-  [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
     
   [[menu.main]]
     # Unique identifiers are required for menu entries without a name property,
