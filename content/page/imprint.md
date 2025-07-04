@@ -1,6 +1,6 @@
 +++
 date = '2025-06-23T12:04:36+02:00'
-draft = true
+draft = false
 title = 'Imprint'
 h1 = 'Formal stuff'
 +++

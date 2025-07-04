@@ -1,6 +1,6 @@
 +++
 date = '2025-06-23T12:19:41+02:00'
-draft = true
+draft = false
 title = 'Soon'
 h1 = 'Coming Soon'
 +++
