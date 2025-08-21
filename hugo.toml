@@ -11,10 +11,10 @@ title = "Nicgeon"
   accentColor = "#c500c2"
 
   # Resource URL for the site avatar (home page and header)
-  avatarURL = "https://cdn.discordapp.com/avatars/452780698802192387/f058492000c1bf93ee4aa98ba267ba74.webp?size=1024"
+  avatarURL = "https://cloud.nicgeon.de/apps/files_sharing/publicpreview/ajWfxYEMmZNZGKw?file=/&fileId=23679&x=1920&y=1080&a=true&etag=a9f1de47b27066400579e82be848c67b"
 
   # Describe the avatar for screen readers
-  avatarAltText = "userlogo"
+  avatarAltText = "avatar"
 
   # Set the avatar's size: size-xs, size-s, size-m, size-l & size-xl
   avatarSize = "size-l"

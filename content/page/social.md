@@ -14,16 +14,6 @@ Currently my youtube channel is on hold due to a lack of entertaining content co
 The most activity youll see on my beautiful social media presence is probaply twitch. I am currently streaming three times per week, with content ranging from just chatting to some weird indie horror Game. \
 I escpailly have the focus of making the stream interactable, either thoguth a soundboard or though allowing to do inputs ingame, no i dont let them play the game but instead i let them kill me...
 
-Currently my streaming times are:
+> Currently streaming is set on hold while i adapt to my new daily routine
 
-- **Tuesdays**
-    - `21:00` to `22:30`
-- **Fridays**
-    - `21:00` to `22:30`
-- **Sundays**
-    - `21:00` to `23:30`
-
-```
-All these times are in my local time (UTC+01:00)
-```
 I'd highly reccoment joining my [discord](discord.gg/SvaP4wS7rz) to get updates for the newest features and changes ;)
